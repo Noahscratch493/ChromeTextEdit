@@ -1,7 +1,7 @@
-<h1>This is ChromeTextEdit</h1>
-<p>ChromeTextEdit is An Opensource Text Editor With Cool Features and Even An AI assistant Called Clippy</p>
-<p>Read more About It <a href="https://sites.google.com/view/noahscratch493textedit">Here</a>!</p>
-<img src="https://lh4.googleusercontent.com/K8QJkRZfEBEo2kJs9k_4yr3TsRpP0Dt4hsycl3BvBQo_xiv_c3WKR16_FMs9ZmHHE1IklXSdt03QkGNhqg9D4hWkaXRn2sF6nHfsQG7V7oGuRZEpsZOsdEdBz8pRyL7Sag=w1280" class="CENy8b" role="img" style="width: 100%; margin: -0.0000000685% 0 -0.0000000685% 0%">
+<h1>The License for ChromeTextEdit</h1>
+<p>The License for ChromeTextEdit is Kinda Strange.</p>
+<p>You can modify, download and publish a new version of ChromeTextEdit.</p>
+<p>If You want to modify and publish your new version of ChromeTextEdit, you must give credit to the creator of ChromeTextEdit, Noahscratch493</p>
+<p>If you downloaded and edited someone else's version of ChromeTextEdit, you must credit Noahscratch493 and the creator who made the version you downloaded that wasn't by Noahscratch493.<p>
+<p>If you modify someone else's version, make sure you use the Licence they are using too so there aren't any consequences between the creator of the version of ChromeTextEdit.<p>
 
-
-<p>ChatGPT made It :)</p>
